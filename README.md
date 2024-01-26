@@ -165,6 +165,8 @@ A `Command` can either be a string or a list of strings. If the `Command` is a s
 - `[debugger]`
   - **Description:** Advanced users only. See field types & docstrings [here](https://gist.github.com/Bardia95/98987c69c6970b1bb0698b863e2a84de#file-dot-replit-debugger-config-go), and in the advanced section below.
 
+Following are the example configurations
+
 ### Example configurations
 #### Beginner
 ##### [LaTeX](https://replit.com/@ZachAtReplit/LaTeX?v=1#.replit)
